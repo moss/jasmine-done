@@ -57,4 +57,4 @@ Why so little documentation?
 
 License
 -------
-BSD.
+MIT.

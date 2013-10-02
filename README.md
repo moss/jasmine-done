@@ -25,7 +25,7 @@ it('should load some data', function () {
 
 Inspired by Mocha, jasmine-done gives you an easier way to do it:
 
-```
+```javascript
 it('should load some data', function (done) {
   var result = null;
   callRemoteMethod(function(theResult) {  	

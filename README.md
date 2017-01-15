@@ -48,7 +48,7 @@ Alternatives
 
 If you're using NodeJS, [jasmine-node](https://github.com/mhevery/jasmine-node) supports this syntax out of the box.
 
-[Mocha](http://visionmedia.github.io/mocha/) is, of course, where the syntax came from.
+[Mocha](http://mochajs.org/) is, of course, where the syntax came from.
 
 Why so little documentation?
 ----------------------------
